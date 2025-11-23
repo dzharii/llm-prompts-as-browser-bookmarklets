@@ -1,3 +1,5 @@
+// BM_PUBLISH=enabled
+
 javascript:(function bm_youtube_transcript_no_fluff_no_cliches_v20251123() { 
   var currentUrl = window.location.href; 
   var prompt = [
